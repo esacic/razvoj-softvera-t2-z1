@@ -3,10 +3,10 @@
 }
 
 .label { 
-    -fx-font-size: ​12pt;
-    -fx-text-fill: ​yellow;
+    -fx-font-size: ​12px;
 }
 
 .button {
     -fx-background-color: green;
+    -fx-border-radius: 12px;
 }
